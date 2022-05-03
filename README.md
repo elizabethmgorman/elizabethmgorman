@@ -1,4 +1,5 @@
-### Hi there 👋
+### Bachelor of Science in Finance and Business Analytics
+### Tippie College of Business, The University of Iowa
 
 <!--
 **elizabethmgorman/elizabethmgorman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
